@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "name": "Round trip verification",
+  "pieces": [
+    {
+      "id": "f4d41ed4-4626-4b16-a7da-ba29e1f56777",
+      "type": "teleporter",
+      "position": [-3.8, 5.4, -3.5],
+      "yaw": 0,
+      "color": "coral"
+    }
+  ],
+  "settings": {
+    "count": 3,
+    "appearance": "classic",
+    "grid": true,
+    "quality": "high",
+    "sound": false
+  }
+}

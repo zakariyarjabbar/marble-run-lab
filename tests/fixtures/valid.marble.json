@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "name": "Round trip verification",
+  "pieces": [
+    {
+      "id": "f4d41ed4-4626-4b16-a7da-ba29e1f56777",
+      "type": "start",
+      "position": [-3.8, 5.4, -3.5],
+      "yaw": 0,
+      "color": "coral"
+    },
+    {
+      "id": "c2a3d5e3-b43c-4a27-8e3d-ba4861d80b5a",
+      "type": "curve",
+      "position": [-1.1999999999999997, 5.2, -3.5],
+      "yaw": 0,
+      "color": "coral"
+    },
+    {
+      "id": "0cd1a601-cbb9-448b-b039-fcefb3cd7fdc",
+      "type": "down",
+      "position": [1.0000000000000004, 4.82, -1.3000000000000003],
+      "yaw": 1.5707963267948966,
+      "color": "cobalt"
+    },
+    {
+      "id": "08dee36f-1e57-43e1-b2c0-39da1ace1527",
+      "type": "curve",
+      "position": [1.0000000000000007, 2.1700000000000004, 2.6999999999999997],
+      "yaw": 1.5707963267948966,
+      "color": "coral"
+    },
+    {
+      "id": "732d713a-5336-4efd-aadf-7e4790836584",
+      "type": "straight",
+      "position": [-1.199999999999999, 1.7900000000000005, 4.9],
+      "yaw": 3.141592653589793,
+      "color": "butter"
+    },
+    {
+      "id": "9ae4e11c-ac74-4956-a90b-2a81902af77c",
+      "type": "s-curve",
+      "position": [-3.999999999999999, 1.5900000000000005, 4.9],
+      "yaw": 3.141592653589793,
+      "color": "mint"
+    },
+    {
+      "id": "b63da112-d9bf-4765-b3dc-11ca8eed4fa8",
+      "type": "curve",
+      "position": [-8.799999999999999, 0.9900000000000005, 4.900000000000001],
+      "yaw": 3.141592653589793,
+      "color": "coral"
+    },
+    {
+      "id": "026fcc9e-c32f-4308-8d2f-d300f5c033e3",
+      "type": "finish",
+      "position": [-11, 0.6100000000000005, 2.700000000000002],
+      "yaw": 4.71238898038469,
+      "color": "butter"
+    }
+  ],
+  "settings": {
+    "count": 3,
+    "appearance": "classic",
+    "grid": true,
+    "quality": "high",
+    "sound": false
+  }
+}
